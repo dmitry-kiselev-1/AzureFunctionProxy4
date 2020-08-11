@@ -23,7 +23,7 @@ namespace AzureFunctionProxy4
             var sourceDomain = @"https://habr.com/ru/";
 
             var localDestinationDomain = @"http://localhost:7071/api/Proxy/";
-            var publishDestinationDomain = @"https://websiteproxy4.azurewebsites.net/proxy/";
+            var publishDestinationDomain = @"https://dmitryfullstackazurefunctionapp.azurewebsites.net/api/proxy/";
 
             var destinationDomain = localDestinationDomain;
 
